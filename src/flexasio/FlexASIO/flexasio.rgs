@@ -24,7 +24,7 @@ HKLM
 	{
 		NoRemove ASIO
 		{
-			ForceRemove XONAR SOUND CARD(64)
+			ForceRemove 'XONAR SOUND CARD(64)'
 			{
 				val CLSID = s '{462F2ABF-5278-436A-95B6-72CBF65482AE}'
 				val Description = s 'XONAR SOUND CARD(64)'
